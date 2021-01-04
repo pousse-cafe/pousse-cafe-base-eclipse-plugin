@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Pousse-Café Base Eclipse Plugin
 Bundle-SymbolicName: poussecafe.base.eclipse.plugin
-Bundle-Version: 0.25.0.202012171620
+Bundle-Version: 0.25.0.202101041552
 Automatic-Module-Name: pousseCafeBaseEclipsePlugin
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Bundle-ClassPath: pousse-cafe-base-0.25.0-SNAPSHOT.jar
